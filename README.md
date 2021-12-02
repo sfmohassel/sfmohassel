@@ -24,9 +24,11 @@ var skills = {
 }
 ```
 
+<img src="https://raw.githubusercontent.com/saeidjoker/saeidjoker/main/banner.jpg"/>
+
 <h3 align="center">My publications</h3>
 <p align="center">
-  <a href="https://saeidfarahi.medium.com" rel="Saeed Farahi articles on medium" title="Saeed Farahi articles on medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="150" height="100"/></a>
+  <a href="https://saeidfarahi.medium.com" rel="Saeed Farahi articles on medium" title="Saeed Farahi articles on medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="250" height="100"/></a>
 </p>
 
 <div align=right>
