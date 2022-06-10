@@ -40,7 +40,7 @@ var skills = {
 - 👨‍💻 All of my projects are available at
 [https://github.com/saeidjoker](https://github.com/saeidjoker)
 
-- 📫 How to reach me, drop an email at **saeidfarahi@gmail.com**
+- 📫 How to reach me, drop an email at **saeedfarahimohassel@outlook.com**
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 
 <br><br>
