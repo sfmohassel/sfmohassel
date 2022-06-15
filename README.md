@@ -2,23 +2,23 @@
 <h3 align="center">A software engineer with the main focus on back-end development</h3>
 
 ```javascript
-var skills = {
-    Languages : [ 
-        "TypeScript", "Java", "C#"
+let skills = {
+    "Languages" : [ 
+        "TypeScript/JavaScript", "C#", "Java"
     ],
-    Cloud: [
-        "AWS", "Azure"
+    "Backend Frameworks" : [
+        "Nest.js", ".NET Core", "Spring Boot"
     ],
-    Web_Development : [
-        "Express.js", "Nest.js", "Spring Boot", ".NET Core", "Vue", "Angular"
+    "Frontend Frameworks": [
+        "React", "Vue.js"
     ],
-    Mobile_App_Development : [
-        "Flutter", "Quassar Framework"
-    ],
-    Desktop_App_Development : [
+    "Desktop Development": [
         "C# WPF", "Windows Forms", "Electron.js"
     ],
-    Education : {
+    "Mobile Development": [
+        "Flutter", "Quassar Framework"
+    ],
+    "Education": {
         "Bachelor's degree in Software Engineering from University of Tehran"
     }
 }
@@ -37,8 +37,7 @@ var skills = {
     </a>
 </div>
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/saeidjoker](https://github.com/saeidjoker)
+- 👨‍💻 [My repositories](https://github.com/saeidjoker?tab=repositories)
 
 - 📫 How to reach me, drop an email at **saeedfarahimohassel@outlook.com**
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
