@@ -10,13 +10,10 @@ let skills = {
         "Nest.js", ".NET Core", "Spring Boot"
     ],
     "Frontend Frameworks": [
-        "React", "Vue.js"
+        "Vue.js (Vuetify, Quassar)"
     ],
     "Desktop Development": [
         "C# WPF", "Windows Forms", "Electron.js"
-    ],
-    "Mobile Development": [
-        "Flutter", "Quassar Framework"
     ],
     "Education": {
         "Bachelor's degree in Software Engineering from University of Tehran"
