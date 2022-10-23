@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saeed Farahi</h1>
+<h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">A software engineer with the main focus on back-end development</h3>
 
 ```javascript
@@ -25,7 +25,7 @@ let skills = {
 
 <h3 align="center">My publications</h3>
 <p align="center">
-  <a href="https://saeidfarahi.medium.com" rel="Saeed Farahi articles on medium" title="Saeed Farahi articles on medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="250" height="100"/></a>
+  <a href="https://saeidjoker.medium.com" rel="Saeed articles on medium" title="Saeed articles on medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="250" height="100"/></a>
 </p>
 
 <div align=right>
@@ -36,18 +36,14 @@ let skills = {
 
 - 👨‍💻 [My repositories](https://github.com/saeidjoker?tab=repositories)
 
-- 📫 How to reach me, drop an email at **saeedfarahimohassel@outlook.com**
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 
 <br><br>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/saeidfarahi/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/saeidjoker/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/_saeidfarahi/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
 
