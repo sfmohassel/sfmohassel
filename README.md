@@ -1,72 +1,30 @@
-<h1 align="center">Hi 👋, I'm Saeed</h1>
-<h3 align="center">A software engineer with the main focus on back-end development</h3>
-
-```javascript
-let skills = {
-    "Languages" : [ 
-        "TypeScript/JavaScript", "C#", "Java"
-    ],
-    "Backend Frameworks" : [
-        "Nest.js", ".NET Core", "Spring Boot"
-    ],
-    "Frontend Frameworks": [
-        "Vue.js (Vuetify, Quassar)"
-    ],
-    "Desktop Development": [
-        "C# WPF", "Windows Forms", "Electron.js"
-    ],
-    "Education": {
-        "Bachelor's degree in Software Engineering from University of Tehran"
-    }
-}
-```
+# Hi 👋, I'm Saeed
+### A software engineer with the main focus on back-end development
 
 <img src="https://raw.githubusercontent.com/saeidjoker/saeidjoker/main/banner.jpg"/>
 
-<h3 align="center">My publications</h3>
-<p align="center">
-  <a href="https://saeidjoker.medium.com" rel="Saeed articles on medium" title="Saeed articles on medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="250" height="100"/></a>
-</p>
+## Publications
 
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeidjoker&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div>
+|  |  |
+| ------------- | ------------- |
+| [My articles on Medium](https://saeidjoker.medium.com) | <a href="https://saeidjoker.medium.com" rel="Saeed articles on Medium" title="Saeed articles on Medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="250" height="80"/></a>
+| [My LinkedIn account](https://linkedin.com/in/saeidjoker) | <a href="https://linkedin.com/in/saeidjoker" rel="Saeed Farahi on LinkedIn" title="Saeed Farahi on LinkedIn" target="_blank"><img src="https://user-images.githubusercontent.com/20520614/210483170-a01c368f-ff8f-407d-8faa-6c3443cc1d31.png" width="250" height="80"/></a>  | 
 
-- 👨‍💻 [My repositories](https://github.com/saeidjoker?tab=repositories)
+## Recent contributions
 
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
-
-<br><br>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/saeidjoker/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-</p>
-
-
-## My recent contributions
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Saeed Farahi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saeidjoker&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Saeed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saeidjoker&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Stats
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=saeidjoker&theme=react&border=61dafb" alt="Saeed Farahi" />
-    </a>
+    <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=saeidjoker&theme=react&border=61dafb" alt="Saeed Farahi" />
       <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=saeidjoker&show_icons=true&theme=react&border_color=61dafb&hide=contribs"/>
-    </a>
-  </div>  
+    <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=saeidjoker&show_icons=true&theme=react&border_color=61dafb&hide=contribs"/>
+      <br><br>
+    <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeidjoker&langs_count=20&theme=merko&layout=compact" />
+  </div>
 </p>
-
-## 
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
