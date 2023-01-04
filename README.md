@@ -3,6 +3,26 @@
 
 <img src="https://raw.githubusercontent.com/saeidjoker/saeidjoker/main/banner.jpg"/>
 
+```javascript
+let skills = {
+    "Languages" : [ 
+        "TypeScript/JavaScript", "C#", "Java"
+    ],
+    "Backend Frameworks" : [
+        "Nest.js", ".NET Core", "Spring Boot"
+    ],
+    "Frontend Frameworks": [
+        "Vue.js (Vuetify, Quassar)"
+    ],
+    "Desktop Development": [
+        "C# WPF", "Windows Forms", "Electron.js"
+    ],
+    "Education": {
+        "Bachelor's degree in Software Engineering from University of Tehran"
+    }
+}
+```
+
 ## Publications
 
 |  |  |
