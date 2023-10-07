@@ -6,13 +6,13 @@
 ```javascript
 let skills = {
     "Languages" : [ 
-        "TypeScript/JavaScript", "C#", "Java"
+        "TypeScript/JavaScript", "Java", "C#"
     ],
     "Backend Frameworks" : [
-        "Nest.js", ".NET Core", "Spring Boot"
+        "Nest.js", "Spring Boot", , ".NET Core"
     ],
     "Frontend Frameworks": [
-        "Vue.js (Vuetify, Quassar)"
+        "Vue.js (Vuetify, Quassar)", "React"
     ],
     "Desktop Development": [
         "C# WPF", "Windows Forms", "Electron.js"
