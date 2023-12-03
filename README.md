@@ -23,13 +23,6 @@ let skills = {
 }
 ```
 
-## Publications
-
-|  |  |
-| ------------- | ------------- |
-| [My articles on Medium](https://saeidjoker.medium.com) | <a href="https://saeidjoker.medium.com" rel="Saeed articles on Medium" title="Saeed articles on Medium" target="_blank"><img src="https://github.com/saeidjoker/saeidjoker/raw/main/medium.png" width="250" height="80"/></a>
-| [My LinkedIn account](https://linkedin.com/in/saeidjoker) | <a href="https://linkedin.com/in/saeidjoker" rel="Saeed Farahi on LinkedIn" title="Saeed Farahi on LinkedIn" target="_blank"><img src="https://user-images.githubusercontent.com/20520614/210483170-a01c368f-ff8f-407d-8faa-6c3443cc1d31.png" width="250" height="80"/></a>  | 
-
 ## Recent contributions
 
 [![Saeed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saeidjoker&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
