@@ -6,19 +6,19 @@
 ```javascript
 let skills = {
     "Languages" : [ 
-        "TypeScript/JavaScript", "Java", "C#"
+        "TypeScript/JavaScript", "Java", "Python", "Golang", "C#"
     ],
     "Backend Frameworks" : [
-        "Nest.js", "Spring Boot", , ".NET Core"
+        "Nest.js", "Spring Boot", , ".NET Core", "FastAPI", "Django", "Gin", "Express.js"
+    ],
+    "Infrastructure & Cloud": [
+        "AWS Solutions Architect", "Terraform", "Kubernetes - CKAD", "Apache Kafka", "Apache Flink"
     ],
     "Frontend Frameworks": [
-        "Vue.js (Vuetify, Quassar)", "React"
-    ],
-    "Desktop Development": [
-        "C# WPF", "Windows Forms", "Electron.js"
+        "Vue.js", "React"
     ],
     "Education": {
-        "Bachelor's degree in Software Engineering from University of Tehran"
+        "B.S. in Computer Science"
     }
 }
 ```
