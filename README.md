@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saeed
+# Hi 👋, I'm Aria
 ### A software engineer with the main focus on back-end development
 
 <img src="https://github.com/user-attachments/assets/bf3be062-8651-49f2-bc6d-522b43840705" height="300"/>
